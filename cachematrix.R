@@ -33,4 +33,4 @@ cacheSolve <- function(x, ...) {
 	x$setInverse(i)
 	i
 }
->>>>>>> origin/master
+
